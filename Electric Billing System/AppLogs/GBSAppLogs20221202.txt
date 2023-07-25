@@ -1,0 +1,566 @@
+2022-12-02T09:08:35.0824815+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-12-02T09:08:35.0916500+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-12-02T09:08:35.0918622+05:30  [INF] Content root path: "C:\Users\SHREYAS KABIRAJ\Desktop\Electric Billing System\Electric Billing System\Electric Billing System" (b5d60022)
+2022-12-02T09:08:35.1121688+05:30 400000f6-0007-fd00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger - - (ca22a1cb)
+2022-12-02T09:08:35.1982189+05:30 40000006-0000-fb00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/index.html - - (ca22a1cb)
+2022-12-02T09:08:35.2016763+05:30 400000f6-0007-fd00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger - - - 301 - - 94.6921ms (791a596a)
+2022-12-02T09:08:35.3137885+05:30 40000006-0000-fb00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/index.html - - - 200 - text/html;charset=utf-8 115.5336ms (791a596a)
+2022-12-02T09:08:35.3449532+05:30 40000008-0000-fb00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/swagger-ui.css - - (ca22a1cb)
+2022-12-02T09:08:35.3473175+05:30 40000199-0002-ff00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/swagger-ui-bundle.js - - (ca22a1cb)
+2022-12-02T09:08:35.3483261+05:30 40000136-0003-ff00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/swagger-ui-standalone-preset.js - - (ca22a1cb)
+2022-12-02T09:08:35.3514205+05:30 400000fe-0002-fc00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/_framework/aspnetcore-browser-refresh.js - - (ca22a1cb)
+2022-12-02T09:08:35.3722831+05:30 400000fe-0002-fc00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/_framework/aspnetcore-browser-refresh.js - - - 200 11565 application/javascript;+charset=utf-8 18.8293ms (791a596a)
+2022-12-02T09:08:35.3854872+05:30 40000199-0002-ff00-b63f-84710c7967bb [INF] Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"' (27b0a520)
+2022-12-02T09:08:35.3854875+05:30 40000136-0003-ff00-b63f-84710c7967bb [INF] Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"' (27b0a520)
+2022-12-02T09:08:35.3854873+05:30 40000008-0000-fb00-b63f-84710c7967bb [INF] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"' (27b0a520)
+2022-12-02T09:08:35.3999872+05:30 40000008-0000-fb00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/swagger-ui.css - - - 200 142933 text/css 54.8626ms (791a596a)
+2022-12-02T09:08:35.4120177+05:30 40000136-0003-ff00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 63.6486ms (791a596a)
+2022-12-02T09:08:35.4702317+05:30 40000199-0002-ff00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 122.6240ms (791a596a)
+2022-12-02T09:08:35.7718077+05:30 4000000a-0000-fb00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/v1/swagger.json - - (ca22a1cb)
+2022-12-02T09:08:35.8519146+05:30 4000015c-0001-fb00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/favicon-32x32.png - - (ca22a1cb)
+2022-12-02T09:08:35.8530907+05:30 4000015c-0001-fb00-b63f-84710c7967bb [INF] Sending file. Request path: '"/favicon-32x32.png"'. Physical path: '"N/A"' (27b0a520)
+2022-12-02T09:08:35.8534517+05:30 4000015c-0001-fb00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/favicon-32x32.png - - - 200 628 image/png 1.5071ms (791a596a)
+2022-12-02T09:08:35.9035225+05:30 4000000a-0000-fb00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 131.3362ms (791a596a)
+2022-12-02T09:34:38.2420127+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-12-02T09:34:38.2511459+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-12-02T09:34:38.2542127+05:30  [INF] Content root path: "C:\Users\SHREYAS KABIRAJ\Desktop\Electric Billing System\Electric Billing System\Electric Billing System" (b5d60022)
+2022-12-02T09:34:38.2961558+05:30 4000019d-0001-fd00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/index.html - - (ca22a1cb)
+2022-12-02T09:34:38.5429261+05:30 4000019d-0001-fd00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/index.html - - - 200 - text/html;charset=utf-8 249.5173ms (791a596a)
+2022-12-02T09:34:38.8698254+05:30 4000019f-0001-fd00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/v1/swagger.json - - (ca22a1cb)
+2022-12-02T09:34:39.0907599+05:30 4000019f-0001-fd00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 220.9886ms (791a596a)
+2022-12-02T09:35:53.5187582+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-12-02T09:35:53.5344293+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-12-02T09:35:53.5380307+05:30  [INF] Content root path: "C:\Users\SHREYAS KABIRAJ\Desktop\Electric Billing System\Electric Billing System\Electric Billing System" (b5d60022)
+2022-12-02T09:35:53.5809573+05:30 40000133-0003-fe00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/index.html - - (ca22a1cb)
+2022-12-02T09:35:53.9048529+05:30 40000133-0003-fe00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/index.html - - - 200 - text/html;charset=utf-8 345.0942ms (791a596a)
+2022-12-02T09:35:54.1185503+05:30 4000006a-0005-fd00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/v1/swagger.json - - (ca22a1cb)
+2022-12-02T09:35:54.3926156+05:30 4000006a-0005-fd00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 273.9925ms (791a596a)
+2022-12-02T09:52:15.4484070+05:30  [INF] Entity Framework Core "5.0.17" initialized '"EBSDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-12-02T09:52:17.6959453+05:30  [INF] Executed DbCommand ("38"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1" (0723d8ff)
+2022-12-02T09:52:17.7549503+05:30  [INF] Executed DbCommand ("39"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');" (0723d8ff)
+2022-12-02T09:52:17.7624162+05:30  [INF] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1" (0723d8ff)
+2022-12-02T09:52:17.7635451+05:30  [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');" (0723d8ff)
+2022-12-02T09:52:17.8084852+05:30  [INF] Executed DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];" (0723d8ff)
+2022-12-02T09:52:17.8395652+05:30  [INF] No migrations were applied. The database is already up to date. (503cba9d)
+2022-12-02T09:55:15.1722766+05:30  [INF] Entity Framework Core "5.0.17" initialized '"EBSDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-12-02T09:55:46.4432548+05:30  [INF] Entity Framework Core "5.0.17" initialized '"EBSDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-12-02T09:57:52.4210119+05:30  [INF] Entity Framework Core "5.0.17" initialized '"EBSDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-12-02T09:57:53.2708515+05:30  [INF] Executed DbCommand ("33"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1" (0723d8ff)
+2022-12-02T09:57:53.3200227+05:30  [INF] Executed DbCommand ("32"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');" (0723d8ff)
+2022-12-02T09:59:18.4066828+05:30  [INF] Entity Framework Core "5.0.17" initialized '"EBSDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-12-02T09:59:40.6899812+05:30  [INF] Entity Framework Core "5.0.17" initialized '"EBSDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-12-02T09:59:41.2329015+05:30  [INF] Executed DbCommand ("35"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1" (0723d8ff)
+2022-12-02T09:59:41.2862169+05:30  [INF] Executed DbCommand ("32"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');" (0723d8ff)
+2022-12-02T09:59:41.2899561+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1" (0723d8ff)
+2022-12-02T09:59:41.4683712+05:30  [INF] Executed DbCommand ("8"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);" (0723d8ff)
+2022-12-02T09:59:41.4709633+05:30  [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1" (0723d8ff)
+2022-12-02T09:59:41.4738598+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');" (0723d8ff)
+2022-12-02T09:59:41.4793168+05:30  [INF] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];" (0723d8ff)
+2022-12-02T09:59:41.5188663+05:30  [INF] Applying migration '"20221202042918_init"'. (0e2ac64d)
+2022-12-02T09:59:41.6011208+05:30  [INF] Executed DbCommand ("9"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [Admin] (
+    [AdminUsername] nvarchar(450) NOT NULL,
+    [AdminPassword] nvarchar(max) NOT NULL,
+    [PhoneNo] bigint NOT NULL,
+    [AdminName] nvarchar(max) NULL,
+    [Email] nvarchar(max) NULL,
+    CONSTRAINT [PK_Admin] PRIMARY KEY ([AdminUsername])
+);" (0723d8ff)
+2022-12-02T09:59:41.6035196+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [Bill] (
+    [BillId] nvarchar(450) NOT NULL,
+    [BillSerialNo] int NOT NULL,
+    [BillAmount] int NOT NULL,
+    [UnitsConsumed] int NOT NULL,
+    [CustomerId] int NOT NULL,
+    [CustomerUsername] nvarchar(max) NULL,
+    [CustomerName] nvarchar(max) NULL,
+    CONSTRAINT [PK_Bill] PRIMARY KEY ([BillId])
+);" (0723d8ff)
+2022-12-02T09:59:41.6063497+05:30  [INF] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [Customer] (
+    [CustomerUsername] nvarchar(450) NOT NULL,
+    [CustomerPassword] nvarchar(max) NOT NULL,
+    [CustomerName] nvarchar(max) NULL,
+    [CustomerId] int NOT NULL,
+    [PhoneNo] int NOT NULL,
+    [Address] nvarchar(max) NULL,
+    CONSTRAINT [PK_Customer] PRIMARY KEY ([CustomerUsername])
+);" (0723d8ff)
+2022-12-02T09:59:41.6111582+05:30  [INF] Executed DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [Payment] (
+    [PaymentId] int NOT NULL IDENTITY,
+    [BillId] nvarchar(max) NULL,
+    [BillAmount] int NOT NULL,
+    [CustomerId] int NOT NULL,
+    [CustomerName] nvarchar(max) NULL,
+    [PaymentMethod] nvarchar(max) NULL,
+    [PaymentStatus] bit NOT NULL,
+    CONSTRAINT [PK_Payment] PRIMARY KEY ([PaymentId])
+);" (0723d8ff)
+2022-12-02T09:59:41.6149211+05:30  [INF] Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20221202042918_init', N'5.0.17');" (0723d8ff)
+2022-12-02T10:33:34.9429665+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-12-02T10:33:34.9592262+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-12-02T10:33:34.9626508+05:30  [INF] Content root path: "C:\Users\SHREYAS KABIRAJ\Desktop\Electric Billing System\Electric Billing System\Electric Billing System" (b5d60022)
+2022-12-02T10:33:35.0204325+05:30 4000035f-0002-fe00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/index.html - - (ca22a1cb)
+2022-12-02T10:33:35.2332399+05:30 4000035f-0002-fe00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/index.html - - - 200 - text/html;charset=utf-8 228.1062ms (791a596a)
+2022-12-02T10:33:35.4086569+05:30 40000149-0007-fe00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/v1/swagger.json - - (ca22a1cb)
+2022-12-02T10:33:35.5849029+05:30 40000149-0007-fe00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 176.1956ms (791a596a)
+2022-12-02T11:23:03.2685889+05:30  [INF] Entity Framework Core "5.0.17" initialized '"EBSDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-12-02T11:23:05.3254397+05:30  [INF] Executed DbCommand ("23"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1" (0723d8ff)
+2022-12-02T11:23:05.3668087+05:30  [INF] Executed DbCommand ("24"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');" (0723d8ff)
+2022-12-02T11:23:05.3985274+05:30  [INF] Executed DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];" (0723d8ff)
+2022-12-02T11:25:49.5966620+05:30  [INF] Entity Framework Core "5.0.17" initialized '"EBSDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-12-02T11:25:50.0513109+05:30  [INF] Executed DbCommand ("34"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1" (0723d8ff)
+2022-12-02T11:25:50.0961172+05:30  [INF] Executed DbCommand ("29"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');" (0723d8ff)
+2022-12-02T11:50:54.9934660+05:30  [INF] Entity Framework Core "5.0.17" initialized '"EBSDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-12-02T11:51:13.7722326+05:30  [INF] Entity Framework Core "5.0.17" initialized '"EBSDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-12-02T11:51:14.6262917+05:30  [INF] Executed DbCommand ("38"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1" (0723d8ff)
+2022-12-02T11:51:14.6734055+05:30  [INF] Executed DbCommand ("30"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');" (0723d8ff)
+2022-12-02T11:51:14.6775545+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1" (0723d8ff)
+2022-12-02T11:51:14.8518600+05:30  [INF] Executed DbCommand ("11"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);" (0723d8ff)
+2022-12-02T11:51:14.8544053+05:30  [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1" (0723d8ff)
+2022-12-02T11:51:14.8579057+05:30  [INF] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');" (0723d8ff)
+2022-12-02T11:51:14.8647186+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];" (0723d8ff)
+2022-12-02T11:51:14.9001039+05:30  [INF] Applying migration '"20221202062055_init"'. (0e2ac64d)
+2022-12-02T11:51:14.9641759+05:30  [INF] Executed DbCommand ("7"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [Admin] (
+    [admin_id] int NOT NULL IDENTITY,
+    [admin_name] nvarchar(max) NOT NULL,
+    [admin_Username] nvarchar(max) NULL,
+    [admin_Password] nvarchar(max) NULL,
+    CONSTRAINT [PK_Admin] PRIMARY KEY ([admin_id])
+);" (0723d8ff)
+2022-12-02T11:51:14.9660714+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [Bill] (
+    [bill_id] int NOT NULL IDENTITY,
+    [bill_amount] real NOT NULL,
+    [bill_paymentMode] nvarchar(max) NULL,
+    [bill_issuedate] datetime2 NOT NULL,
+    [bill_payingdate] datetime2 NOT NULL,
+    [bill_status] nvarchar(max) NULL,
+    [bill_present_reading] real NOT NULL,
+    [bill_previous_reading] real NOT NULL,
+    [bill_energy_charge] real NOT NULL,
+    [bill_customerid] int NOT NULL,
+    CONSTRAINT [PK_Bill] PRIMARY KEY ([bill_id])
+);" (0723d8ff)
+2022-12-02T11:51:14.9685457+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [Customer] (
+    [customer_id] int NOT NULL IDENTITY,
+    [customer_name] nvarchar(max) NOT NULL,
+    [customer_address] nvarchar(max) NULL,
+    [customer_email] nvarchar(max) NULL,
+    [customer_mobile] nvarchar(max) NULL,
+    [customer_Username] nvarchar(max) NULL,
+    [customer_Password] nvarchar(max) NULL,
+    CONSTRAINT [PK_Customer] PRIMARY KEY ([customer_id])
+);" (0723d8ff)
+2022-12-02T11:51:14.9732887+05:30  [INF] Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [Payment] (
+    [payment_no] int NOT NULL IDENTITY,
+    [payment_mode] nvarchar(max) NULL,
+    [payment_amount] real NOT NULL,
+    [payment_date] datetime2 NOT NULL,
+    [payment_billno] int NOT NULL,
+    [payment_issuedate] datetime2 NOT NULL,
+    [bill_previous_reading] real NOT NULL,
+    [bill_energy_charge] real NOT NULL,
+    [consumption_unit] real NOT NULL,
+    [payment_tax] real NOT NULL,
+    [payment_billamount] real NOT NULL,
+    [payment_status] nvarchar(max) NULL,
+    [payment_customerid] int NOT NULL,
+    CONSTRAINT [PK_Payment] PRIMARY KEY ([payment_no])
+);" (0723d8ff)
+2022-12-02T11:51:14.9798029+05:30  [INF] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20221202062055_init', N'5.0.17');" (0723d8ff)
+2022-12-02T13:40:35.4667050+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-12-02T13:40:35.4789911+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-12-02T13:40:35.4792564+05:30  [INF] Content root path: "C:\Users\SHREYAS KABIRAJ\Desktop\Electric Billing System\Electric Billing System\Electric Billing System" (b5d60022)
+2022-12-02T13:40:35.5146830+05:30 4000006d-0005-fd00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/index.html - - (ca22a1cb)
+2022-12-02T13:40:35.7663105+05:30 4000006d-0005-fd00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/index.html - - - 200 - text/html;charset=utf-8 257.8886ms (791a596a)
+2022-12-02T13:40:35.8761844+05:30 40000345-0000-ff00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/_framework/aspnetcore-browser-refresh.js - - (ca22a1cb)
+2022-12-02T13:40:35.8845506+05:30 40000345-0000-ff00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/_framework/aspnetcore-browser-refresh.js - - - 200 11565 application/javascript;+charset=utf-8 8.0422ms (791a596a)
+2022-12-02T13:40:36.1504984+05:30 400001a2-0001-fd00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/v1/swagger.json - - (ca22a1cb)
+2022-12-02T13:40:36.3029059+05:30 400001a2-0001-fd00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 152.3246ms (791a596a)
+2022-12-02T13:44:05.2838156+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-12-02T13:44:05.2912419+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-12-02T13:44:05.2914740+05:30  [INF] Content root path: "C:\Users\SHREYAS KABIRAJ\Desktop\Electric Billing System\Electric Billing System\Electric Billing System" (b5d60022)
+2022-12-02T13:44:05.3135157+05:30 40000005-0004-fc00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/index.html - - (ca22a1cb)
+2022-12-02T13:44:05.5235613+05:30 40000005-0004-fc00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/index.html - - - 200 - text/html;charset=utf-8 214.7685ms (791a596a)
+2022-12-02T13:44:05.5907529+05:30 4000014c-0007-fe00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/_framework/aspnetcore-browser-refresh.js - - (ca22a1cb)
+2022-12-02T13:44:05.6025187+05:30 4000014c-0007-fe00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/_framework/aspnetcore-browser-refresh.js - - - 200 11565 application/javascript;+charset=utf-8 11.0216ms (791a596a)
+2022-12-02T13:44:05.8071086+05:30 40000007-0004-fc00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/v1/swagger.json - - (ca22a1cb)
+2022-12-02T13:44:05.9803571+05:30 40000007-0004-fc00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 173.1315ms (791a596a)
+2022-12-02T14:10:50.0032413+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-12-02T14:10:50.0114084+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-12-02T14:10:50.0116439+05:30  [INF] Content root path: "C:\Users\SHREYAS KABIRAJ\Desktop\Electric Billing System\Electric Billing System\Electric Billing System" (b5d60022)
+2022-12-02T14:10:50.0356973+05:30 40000009-0004-fc00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/index.html - - (ca22a1cb)
+2022-12-02T14:10:50.2459142+05:30 40000009-0004-fc00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/index.html - - - 200 - text/html;charset=utf-8 215.6389ms (791a596a)
+2022-12-02T14:10:50.3088217+05:30 4000014a-0005-ff00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/_framework/aspnetcore-browser-refresh.js - - (ca22a1cb)
+2022-12-02T14:10:50.3153711+05:30 4000014a-0005-ff00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/_framework/aspnetcore-browser-refresh.js - - - 200 11565 application/javascript;+charset=utf-8 6.3247ms (791a596a)
+2022-12-02T14:10:50.4675593+05:30 40000100-0002-fc00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/v1/swagger.json - - (ca22a1cb)
+2022-12-02T14:10:50.6194148+05:30 40000100-0002-fc00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 151.8080ms (791a596a)
+2022-12-02T14:11:33.8576986+05:30 40000180-0006-fe00-b63f-84710c7967bb [INF] Request starting HTTP/2 POST https://localhost:44382/api/Admin/AdminRegistration application/json 81 (ca22a1cb)
+2022-12-02T14:11:33.8919562+05:30 40000180-0006-fe00-b63f-84710c7967bb [INF] Executing endpoint '"Electric_Billing_System.Controllers.AdminController.AdminRegistration (Electric Billing System)"' (500cc934)
+2022-12-02T14:11:33.9200552+05:30 40000180-0006-fe00-b63f-84710c7967bb [INF] Route matched with "{action = \"AdminRegistration\", controller = \"Admin\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult AdminRegistration(EBS.DomainLayer.Models.Admin)" on controller "Electric_Billing_System.Controllers.AdminController" ("Electric Billing System"). (122b2fdf)
+2022-12-02T14:11:34.0578325+05:30 40000180-0006-fe00-b63f-84710c7967bb [INF] Admin (b39c89ee)
+2022-12-02T14:11:34.0798160+05:30 40000180-0006-fe00-b63f-84710c7967bb [INF] Executing "BadRequestObjectResult", writing value of type '"Microsoft.AspNetCore.Mvc.ValidationProblemDetails"'. (605b4265)
+2022-12-02T14:11:34.0971992+05:30 40000180-0006-fe00-b63f-84710c7967bb [INF] Executed action "Electric_Billing_System.Controllers.AdminController.AdminRegistration (Electric Billing System)" in 172.3471ms (afa2e885)
+2022-12-02T14:11:34.0972892+05:30 40000180-0006-fe00-b63f-84710c7967bb [INF] Executed endpoint '"Electric_Billing_System.Controllers.AdminController.AdminRegistration (Electric Billing System)"' (99874f2b)
+2022-12-02T14:11:34.0984043+05:30 40000180-0006-fe00-b63f-84710c7967bb [INF] Request finished HTTP/2 POST https://localhost:44382/api/Admin/AdminRegistration application/json 81 - 400 - application/problem+json;+charset=utf-8 240.6941ms (791a596a)
+2022-12-02T14:11:59.3424290+05:30 40000103-0002-fc00-b63f-84710c7967bb [INF] Request starting HTTP/2 POST https://localhost:44382/api/Admin/AdminRegistration application/json 81 (ca22a1cb)
+2022-12-02T14:11:59.3447571+05:30 40000103-0002-fc00-b63f-84710c7967bb [INF] Executing endpoint '"Electric_Billing_System.Controllers.AdminController.AdminRegistration (Electric Billing System)"' (500cc934)
+2022-12-02T14:11:59.3451607+05:30 40000103-0002-fc00-b63f-84710c7967bb [INF] Route matched with "{action = \"AdminRegistration\", controller = \"Admin\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult AdminRegistration(EBS.DomainLayer.Models.Admin)" on controller "Electric_Billing_System.Controllers.AdminController" ("Electric Billing System"). (122b2fdf)
+2022-12-02T14:11:59.3462154+05:30 40000103-0002-fc00-b63f-84710c7967bb [INF] Admin (b39c89ee)
+2022-12-02T14:11:59.3477245+05:30 40000103-0002-fc00-b63f-84710c7967bb [INF] Executing "BadRequestObjectResult", writing value of type '"Microsoft.AspNetCore.Mvc.ValidationProblemDetails"'. (605b4265)
+2022-12-02T14:11:59.3482796+05:30 40000103-0002-fc00-b63f-84710c7967bb [INF] Executed action "Electric_Billing_System.Controllers.AdminController.AdminRegistration (Electric Billing System)" in 2.9589ms (afa2e885)
+2022-12-02T14:11:59.3483628+05:30 40000103-0002-fc00-b63f-84710c7967bb [INF] Executed endpoint '"Electric_Billing_System.Controllers.AdminController.AdminRegistration (Electric Billing System)"' (99874f2b)
+2022-12-02T14:11:59.3490840+05:30 40000103-0002-fc00-b63f-84710c7967bb [INF] Request finished HTTP/2 POST https://localhost:44382/api/Admin/AdminRegistration application/json 81 - 400 - application/problem+json;+charset=utf-8 6.4239ms (791a596a)
+2022-12-02T14:12:25.8090998+05:30 40000003-0006-fc00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/index.html - - (ca22a1cb)
+2022-12-02T14:12:25.8143518+05:30 40000003-0006-fc00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/index.html - - - 200 - text/html;charset=utf-8 5.2531ms (791a596a)
+2022-12-02T14:12:25.8319847+05:30 40000071-0005-fd00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/_framework/aspnetcore-browser-refresh.js - - (ca22a1cb)
+2022-12-02T14:12:25.8340762+05:30 40000071-0005-fd00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/_framework/aspnetcore-browser-refresh.js - - - 200 11565 application/javascript;+charset=utf-8 2.1229ms (791a596a)
+2022-12-02T14:12:25.9292201+05:30 40000005-0006-fc00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/v1/swagger.json - - (ca22a1cb)
+2022-12-02T14:12:25.9318515+05:30 40000005-0006-fc00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 2.6139ms (791a596a)
+2022-12-02T14:12:54.6556199+05:30 40000002-0002-fb00-b63f-84710c7967bb [INF] Request starting HTTP/2 POST https://localhost:44382/api/Admin/AdminRegistration application/json 92 (ca22a1cb)
+2022-12-02T14:12:54.6558663+05:30 40000002-0002-fb00-b63f-84710c7967bb [INF] Executing endpoint '"Electric_Billing_System.Controllers.AdminController.AdminRegistration (Electric Billing System)"' (500cc934)
+2022-12-02T14:12:54.6559872+05:30 40000002-0002-fb00-b63f-84710c7967bb [INF] Route matched with "{action = \"AdminRegistration\", controller = \"Admin\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult AdminRegistration(EBS.DomainLayer.Models.Admin)" on controller "Electric_Billing_System.Controllers.AdminController" ("Electric Billing System"). (122b2fdf)
+2022-12-02T14:12:54.6619392+05:30 40000002-0002-fb00-b63f-84710c7967bb [INF] Admin (b39c89ee)
+2022-12-02T14:12:55.0508705+05:30 40000002-0002-fb00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.17" initialized '"EBSDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-12-02T14:12:57.1011223+05:30 40000002-0002-fb00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("42"ms) [Parameters=["@p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [Admin] ([admin_id], [admin_Password], [admin_Username], [admin_name])
+VALUES (@p0, @p1, @p2, @p3);" (627a98df)
+2022-12-02T14:12:57.1715044+05:30 40000002-0002-fb00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"EBS.RepositoryLayer.EBSDBContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'Admin' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:7bfd456c-c48b-4bbb-9c1d-8d5d1bdb150c
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert explicit value for identity column in table 'Admin' when IDENTITY_INSERT is set to OFF.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:7bfd456c-c48b-4bbb-9c1d-8d5d1bdb150c
+Error Number:544,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges()
+   at EBS.ServiceLayer.AdminServices.AdminRegistration(Admin AdminRegistration) in C:\Users\SHREYAS KABIRAJ\Desktop\Electric Billing System\Electric Billing System\EBS.ServiceLayer\AdminServices.cs:line 22
+   at Electric_Billing_System.Controllers.AdminController.AdminRegistration(Admin AdminRegistration) in C:\Users\SHREYAS KABIRAJ\Desktop\Electric Billing System\Electric Billing System\Electric Billing System\Controllers\AdminController.cs:line 37
+2022-12-02T14:12:57.1731485+05:30 40000002-0002-fb00-b63f-84710c7967bb [ERR] Exception Occured (7a53c912)
+2022-12-02T14:12:57.1738385+05:30 40000002-0002-fb00-b63f-84710c7967bb [INF] Executing "BadRequestObjectResult", writing value of type '"System.String"'. (605b4265)
+2022-12-02T14:12:57.1740381+05:30 40000002-0002-fb00-b63f-84710c7967bb [INF] Executed action "Electric_Billing_System.Controllers.AdminController.AdminRegistration (Electric Billing System)" in 2518.0124ms (afa2e885)
+2022-12-02T14:12:57.1740681+05:30 40000002-0002-fb00-b63f-84710c7967bb [INF] Executed endpoint '"Electric_Billing_System.Controllers.AdminController.AdminRegistration (Electric Billing System)"' (99874f2b)
+2022-12-02T14:12:57.1788336+05:30 40000002-0002-fb00-b63f-84710c7967bb [INF] Request finished HTTP/2 POST https://localhost:44382/api/Admin/AdminRegistration application/json 92 - 400 - text/plain;+charset=utf-8 2523.2758ms (791a596a)
+2022-12-02T14:14:32.8693035+05:30 4000014e-0005-ff00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/index.html - - (ca22a1cb)
+2022-12-02T14:14:32.8711158+05:30 4000014e-0005-ff00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/index.html - - - 200 - text/html;charset=utf-8 1.8086ms (791a596a)
+2022-12-02T14:14:32.8886104+05:30 40000184-0006-fe00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/_framework/aspnetcore-browser-refresh.js - - (ca22a1cb)
+2022-12-02T14:14:32.8940041+05:30 40000184-0006-fe00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/_framework/aspnetcore-browser-refresh.js - - - 200 11565 application/javascript;+charset=utf-8 5.1570ms (791a596a)
+2022-12-02T14:14:33.0429573+05:30 4000013a-0003-ff00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/v1/swagger.json - - (ca22a1cb)
+2022-12-02T14:14:33.0506172+05:30 4000013a-0003-ff00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 7.3501ms (791a596a)
+2022-12-02T14:14:58.6640677+05:30 40000107-0002-fc00-b63f-84710c7967bb [INF] Request starting HTTP/2 POST https://localhost:44382/api/Admin/AdminRegistration application/json 89 (ca22a1cb)
+2022-12-02T14:14:58.6642054+05:30 40000107-0002-fc00-b63f-84710c7967bb [INF] Executing endpoint '"Electric_Billing_System.Controllers.AdminController.AdminRegistration (Electric Billing System)"' (500cc934)
+2022-12-02T14:14:58.6643080+05:30 40000107-0002-fc00-b63f-84710c7967bb [INF] Route matched with "{action = \"AdminRegistration\", controller = \"Admin\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult AdminRegistration(EBS.DomainLayer.Models.Admin)" on controller "Electric_Billing_System.Controllers.AdminController" ("Electric Billing System"). (122b2fdf)
+2022-12-02T14:14:58.6645158+05:30 40000107-0002-fc00-b63f-84710c7967bb [INF] Admin (b39c89ee)
+2022-12-02T14:14:58.6984028+05:30 40000107-0002-fc00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.17" initialized '"EBSDBContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-12-02T14:14:58.7091247+05:30 40000107-0002-fc00-b63f-84710c7967bb [INF] Executed DbCommand ("3"ms) [Parameters=["@p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [Admin] ([admin_id], [admin_Password], [admin_Username], [admin_name])
+VALUES (@p0, @p1, @p2, @p3);" (0723d8ff)
+2022-12-02T14:14:58.7200362+05:30 40000107-0002-fc00-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"System.String"'. (605b4265)
+2022-12-02T14:14:58.7201743+05:30 40000107-0002-fc00-b63f-84710c7967bb [INF] Executed action "Electric_Billing_System.Controllers.AdminController.AdminRegistration (Electric Billing System)" in 55.8355ms (afa2e885)
+2022-12-02T14:14:58.7201968+05:30 40000107-0002-fc00-b63f-84710c7967bb [INF] Executed endpoint '"Electric_Billing_System.Controllers.AdminController.AdminRegistration (Electric Billing System)"' (99874f2b)
+2022-12-02T14:14:58.7204383+05:30 40000107-0002-fc00-b63f-84710c7967bb [INF] Request finished HTTP/2 POST https://localhost:44382/api/Admin/AdminRegistration application/json 89 - 200 - text/plain;+charset=utf-8 56.3905ms (791a596a)
+2022-12-02T14:15:44.9384693+05:30 40000109-0002-fc00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/api/Admin/getAdminById?admin_id=1 - - (ca22a1cb)
+2022-12-02T14:15:44.9394553+05:30 40000109-0002-fc00-b63f-84710c7967bb [INF] Executing endpoint '"Electric_Billing_System.Controllers.AdminController.getAdminById (Electric Billing System)"' (500cc934)
+2022-12-02T14:15:44.9440482+05:30 40000109-0002-fc00-b63f-84710c7967bb [INF] Route matched with "{action = \"getAdminById\", controller = \"Admin\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult getAdminById(Int32)" on controller "Electric_Billing_System.Controllers.AdminController" ("Electric Billing System"). (122b2fdf)
+2022-12-02T14:15:44.9442032+05:30 40000109-0002-fc00-b63f-84710c7967bb [INF] Admin (b39c89ee)
+2022-12-02T14:17:14.8058760+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-12-02T14:17:14.8102339+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-12-02T14:17:14.8103422+05:30  [INF] Content root path: "C:\Users\SHREYAS KABIRAJ\Desktop\Electric Billing System\Electric Billing System\Electric Billing System" (b5d60022)
+2022-12-02T14:17:14.8231366+05:30 400000fb-0007-fd00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/index.html - - (ca22a1cb)
+2022-12-02T14:17:14.9620985+05:30 400000fb-0007-fd00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/index.html - - - 200 - text/html;charset=utf-8 141.5605ms (791a596a)
+2022-12-02T14:17:14.9664142+05:30 40000150-0005-ff00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/_framework/aspnetcore-browser-refresh.js - - (ca22a1cb)
+2022-12-02T14:17:14.9733727+05:30 40000150-0005-ff00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/_framework/aspnetcore-browser-refresh.js - - - 200 11565 application/javascript;+charset=utf-8 6.6898ms (791a596a)
+2022-12-02T14:17:15.0769934+05:30 4000010b-0002-fc00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/v1/swagger.json - - (ca22a1cb)
+2022-12-02T14:17:15.1873890+05:30 4000010b-0002-fc00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 110.3131ms (791a596a)
+2022-12-02T14:17:23.8322799+05:30 4000010d-0002-fc00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/api/Admin/getAdminById?admin_id=1 - - (ca22a1cb)
+2022-12-02T14:17:23.8597832+05:30 4000010d-0002-fc00-b63f-84710c7967bb [INF] Executing endpoint '"Electric_Billing_System.Controllers.AdminController.getAdminById (Electric Billing System)"' (500cc934)
+2022-12-02T14:17:23.8815686+05:30 4000010d-0002-fc00-b63f-84710c7967bb [INF] Route matched with "{action = \"getAdminById\", controller = \"Admin\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult getAdminById(Int32)" on controller "Electric_Billing_System.Controllers.AdminController" ("Electric Billing System"). (122b2fdf)
+2022-12-02T14:17:23.9689543+05:30 4000010d-0002-fc00-b63f-84710c7967bb [INF] Admin (b39c89ee)
+2022-12-02T14:21:47.6076778+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-12-02T14:21:47.6117487+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-12-02T14:21:47.6118708+05:30  [INF] Content root path: "C:\Users\SHREYAS KABIRAJ\Desktop\Electric Billing System\Electric Billing System\Electric Billing System" (b5d60022)
+2022-12-02T14:21:47.6231094+05:30 400001e7-0001-fc00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/index.html - - (ca22a1cb)
+2022-12-02T14:21:47.7535590+05:30 400001e7-0001-fc00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/index.html - - - 200 - text/html;charset=utf-8 132.9372ms (791a596a)
+2022-12-02T14:21:47.7998929+05:30 4000013c-0003-ff00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/_framework/aspnetcore-browser-refresh.js - - (ca22a1cb)
+2022-12-02T14:21:47.8042909+05:30 4000013c-0003-ff00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/_framework/aspnetcore-browser-refresh.js - - - 200 11565 application/javascript;+charset=utf-8 4.2254ms (791a596a)
+2022-12-02T14:21:47.9964035+05:30 40000152-0005-ff00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/swagger/v1/swagger.json - - (ca22a1cb)
+2022-12-02T14:21:48.0918020+05:30 40000152-0005-ff00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44382/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 95.3557ms (791a596a)
+2022-12-02T14:21:55.0540116+05:30 40000188-0006-fe00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44382/api/Admin/getAdminById?admin_id=1 - - (ca22a1cb)
+2022-12-02T14:21:55.0844957+05:30 40000188-0006-fe00-b63f-84710c7967bb [INF] Executing endpoint '"Electric_Billing_System.Controllers.AdminController.getAdminById (Electric Billing System)"' (500cc934)
+2022-12-02T14:21:55.1054902+05:30 40000188-0006-fe00-b63f-84710c7967bb [INF] Route matched with "{action = \"getAdminById\", controller = \"Admin\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult getAdminById(Int32)" on controller "Electric_Billing_System.Controllers.AdminController" ("Electric Billing System"). (122b2fdf)
+2022-12-02T14:21:55.1860010+05:30 40000188-0006-fe00-b63f-84710c7967bb [INF] Admin (b39c89ee)
+2022-12-02T14:26:11.0366881+05:30  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-12-02T14:26:11.0403499+05:30  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-12-02T14:26:11.0405111+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-12-02T14:26:11.0405378+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-12-02T14:26:11.0405557+05:30  [INF] Content root path: "C:\Users\SHREYAS KABIRAJ\Desktop\Electric Billing System\Electric Billing System\Electric Billing System" (b5d60022)
+2022-12-02T14:26:12.9501406+05:30 0HMMK8C7KNB0F:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger - - (ca22a1cb)
+2022-12-02T14:26:13.0321058+05:30 0HMMK8C7KNB0F:00000001 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger - - - 301 0 - 88.0305ms (791a596a)
+2022-12-02T14:26:13.0421855+05:30 0HMMK8C7KNB0F:00000003 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html - - (ca22a1cb)
+2022-12-02T14:26:13.1671947+05:30 0HMMK8C7KNB0F:00000003 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 124.8409ms (791a596a)
+2022-12-02T14:26:13.2101278+05:30 0HMMK8C7KNB0F:00000005 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui.css - - (ca22a1cb)
+2022-12-02T14:26:13.2103768+05:30 0HMMK8C7KNB0F:00000007 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui-bundle.js - - (ca22a1cb)
+2022-12-02T14:26:13.2112118+05:30 0HMMK8C7KNB0F:00000009 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - - (ca22a1cb)
+2022-12-02T14:26:13.2593957+05:30 0HMMK8C7KNB0F:00000005 [INF] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"' (27b0a520)
+2022-12-02T14:26:13.2594073+05:30 0HMMK8C7KNB0F:00000009 [INF] Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"' (27b0a520)
+2022-12-02T14:26:13.2658790+05:30 0HMMK8C7KNB0F:00000009 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 54.6682ms (791a596a)
+2022-12-02T14:26:13.2658790+05:30 0HMMK8C7KNB0F:00000005 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/swagger-ui.css - - - 200 142933 text/css 55.6894ms (791a596a)
+2022-12-02T14:26:13.2693061+05:30 0HMMK8C7KNB0F:00000007 [INF] Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"' (27b0a520)
+2022-12-02T14:26:13.2697430+05:30 0HMMK8C7KNB0F:00000007 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 59.3111ms (791a596a)
+2022-12-02T14:26:13.2827155+05:30 0HMMK8C7KNB0F:0000000B [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js - - (ca22a1cb)
+2022-12-02T14:26:13.2870468+05:30 0HMMK8C7KNB0F:0000000B [INF] Request finished HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js - - - 200 11565 application/javascript;+charset=utf-8 4.3713ms (791a596a)
+2022-12-02T14:26:13.6201597+05:30 0HMMK8C7KNB0F:0000000D [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - (ca22a1cb)
+2022-12-02T14:26:13.6735374+05:30 0HMMK8C7KNB0F:0000000F [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/favicon-32x32.png - - (ca22a1cb)
+2022-12-02T14:26:13.6744265+05:30 0HMMK8C7KNB0F:0000000F [INF] Sending file. Request path: '"/favicon-32x32.png"'. Physical path: '"N/A"' (27b0a520)
+2022-12-02T14:26:13.6746076+05:30 0HMMK8C7KNB0F:0000000F [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/favicon-32x32.png - - - 200 628 image/png 1.0669ms (791a596a)
+2022-12-02T14:26:13.7476038+05:30 0HMMK8C7KNB0F:0000000D [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 127.4282ms (791a596a)
+2022-12-02T14:26:28.0277742+05:30 0HMMK8C7KNB0G:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/api/Admin/getAdminById?admin_id=1 - - (ca22a1cb)
+2022-12-02T14:26:28.0608571+05:30 0HMMK8C7KNB0G:00000001 [INF] Executing endpoint '"Electric_Billing_System.Controllers.AdminController.getAdminById (Electric Billing System)"' (500cc934)
+2022-12-02T14:26:28.0914106+05:30 0HMMK8C7KNB0G:00000001 [INF] Route matched with "{action = \"getAdminById\", controller = \"Admin\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult getAdminById(Int32)" on controller "Electric_Billing_System.Controllers.AdminController" ("Electric Billing System"). (122b2fdf)
+2022-12-02T14:26:28.2173667+05:30 0HMMK8C7KNB0G:00000001 [INF] Admin (b39c89ee)
+2022-12-02T14:29:08.2253062+05:30  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-12-02T14:29:08.2305326+05:30  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-12-02T14:29:08.2314337+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-12-02T14:29:08.2315968+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-12-02T14:29:08.2316511+05:30  [INF] Content root path: "C:\Users\SHREYAS KABIRAJ\Desktop\Electric Billing System\Electric Billing System\Electric Billing System" (b5d60022)
+2022-12-02T14:29:09.8368336+05:30 0HMMK8DSHSS0C:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html - - (ca22a1cb)
+2022-12-02T14:29:10.0769670+05:30 0HMMK8DSHSS0C:00000001 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 253.8322ms (791a596a)
+2022-12-02T14:29:10.1295224+05:30 0HMMK8DSHSS0C:00000003 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js - - (ca22a1cb)
+2022-12-02T14:29:10.1342168+05:30 0HMMK8DSHSS0C:00000003 [INF] Request finished HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js - - - 200 11565 application/javascript;+charset=utf-8 4.6173ms (791a596a)
+2022-12-02T14:29:10.4736676+05:30 0HMMK8DSHSS0C:00000005 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - (ca22a1cb)
+2022-12-02T14:29:10.6202591+05:30 0HMMK8DSHSS0C:00000005 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 146.6143ms (791a596a)
+2022-12-02T14:29:17.8630203+05:30 0HMMK8DSHSS0D:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/api/Admin/getAdminById?admin_id=1 - - (ca22a1cb)
+2022-12-02T14:29:17.8936372+05:30 0HMMK8DSHSS0D:00000001 [INF] Executing endpoint '"Electric_Billing_System.Controllers.AdminController.getAdminById (Electric Billing System)"' (500cc934)
+2022-12-02T14:29:17.9167836+05:30 0HMMK8DSHSS0D:00000001 [INF] Route matched with "{action = \"getAdminById\", controller = \"Admin\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult getAdminById(Int32)" on controller "Electric_Billing_System.Controllers.AdminController" ("Electric Billing System"). (122b2fdf)
+2022-12-02T14:29:18.0141999+05:30 0HMMK8DSHSS0D:00000001 [INF] Admin (b39c89ee)
+2022-12-02T14:30:45.0585071+05:30  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-12-02T14:30:45.0636522+05:30  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-12-02T14:30:45.0639230+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-12-02T14:30:45.0639733+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-12-02T14:30:45.0640288+05:30  [INF] Content root path: "C:\Users\SHREYAS KABIRAJ\Desktop\Electric Billing System\Electric Billing System\Electric Billing System" (b5d60022)
+2022-12-02T14:30:45.3772109+05:30 0HMMK8EP9I0P1:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html - - (ca22a1cb)
+2022-12-02T14:30:45.5091354+05:30 0HMMK8EP9I0P1:00000001 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 135.8924ms (791a596a)
+2022-12-02T14:30:45.5466492+05:30 0HMMK8EP9I0P1:00000003 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js - - (ca22a1cb)
+2022-12-02T14:30:45.5560962+05:30 0HMMK8EP9I0P1:00000003 [INF] Request finished HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js - - - 200 11565 application/javascript;+charset=utf-8 9.3493ms (791a596a)
+2022-12-02T14:30:45.7092694+05:30 0HMMK8EP9I0P1:00000005 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - (ca22a1cb)
+2022-12-02T14:30:45.8062365+05:30 0HMMK8EP9I0P1:00000005 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 96.9621ms (791a596a)
+2022-12-02T14:30:54.3096021+05:30 0HMMK8EP9I0P1:00000007 [INF] Request starting HTTP/2 GET https://localhost:5001/api/Admin/getAdminById?admin_id=1 - - (ca22a1cb)
+2022-12-02T14:30:54.3391046+05:30 0HMMK8EP9I0P1:00000007 [INF] Executing endpoint '"Electric_Billing_System.Controllers.AdminController.getAdminById (Electric Billing System)"' (500cc934)
+2022-12-02T14:30:54.3615390+05:30 0HMMK8EP9I0P1:00000007 [INF] Route matched with "{action = \"getAdminById\", controller = \"Admin\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult getAdminById(Int32)" on controller "Electric_Billing_System.Controllers.AdminController" ("Electric Billing System"). (122b2fdf)
+2022-12-02T14:30:54.4389818+05:30 0HMMK8EP9I0P1:00000007 [INF] Admin (b39c89ee)
+2022-12-02T14:31:31.3570190+05:30  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-12-02T14:31:31.3615340+05:30  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-12-02T14:31:31.3617079+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-12-02T14:31:31.3617371+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-12-02T14:31:31.3617653+05:30  [INF] Content root path: "C:\Users\SHREYAS KABIRAJ\Desktop\Electric Billing System\Electric Billing System\Electric Billing System" (b5d60022)
+2022-12-02T14:31:31.7624099+05:30 0HMMK8F748017:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger - - (ca22a1cb)
+2022-12-02T14:31:31.8013295+05:30 0HMMK8F748017:00000001 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger - - - 301 0 - 46.3370ms (791a596a)
+2022-12-02T14:31:31.8069591+05:30 0HMMK8F748017:00000003 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html - - (ca22a1cb)
+2022-12-02T14:31:31.8656724+05:30 0HMMK8F748017:00000003 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 58.6235ms (791a596a)
+2022-12-02T14:31:31.8792562+05:30 0HMMK8F748017:00000005 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui.css - - (ca22a1cb)
+2022-12-02T14:31:31.8796890+05:30 0HMMK8F748017:00000007 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui-bundle.js - - (ca22a1cb)
+2022-12-02T14:31:31.8812413+05:30 0HMMK8F748017:00000009 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - - (ca22a1cb)
+2022-12-02T14:31:31.8880423+05:30 0HMMK8F748017:0000000B [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js - - (ca22a1cb)
+2022-12-02T14:31:31.9052372+05:30 0HMMK8F748017:0000000B [INF] Request finished HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js - - - 200 11565 application/javascript;+charset=utf-8 16.6998ms (791a596a)
+2022-12-02T14:31:31.9138014+05:30 0HMMK8F748017:00000009 [INF] Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"' (27b0a520)
+2022-12-02T14:31:31.9138013+05:30 0HMMK8F748017:00000005 [INF] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"' (27b0a520)
+2022-12-02T14:31:31.9164963+05:30 0HMMK8F748017:00000007 [INF] Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"' (27b0a520)
+2022-12-02T14:31:31.9165243+05:30 0HMMK8F748017:00000005 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/swagger-ui.css - - - 200 142933 text/css 37.2782ms (791a596a)
+2022-12-02T14:31:31.9165244+05:30 0HMMK8F748017:00000009 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 35.2883ms (791a596a)
+2022-12-02T14:31:31.9166604+05:30 0HMMK8F748017:00000007 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 36.9859ms (791a596a)
+2022-12-02T14:31:32.0400505+05:30 0HMMK8F748017:0000000D [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - (ca22a1cb)
+2022-12-02T14:31:32.0727665+05:30 0HMMK8F748017:0000000F [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/favicon-32x32.png - - (ca22a1cb)
+2022-12-02T14:31:32.0737170+05:30 0HMMK8F748017:0000000F [INF] Sending file. Request path: '"/favicon-32x32.png"'. Physical path: '"N/A"' (27b0a520)
+2022-12-02T14:31:32.0739558+05:30 0HMMK8F748017:0000000F [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/favicon-32x32.png - - - 200 628 image/png 1.1673ms (791a596a)
+2022-12-02T14:31:32.1128258+05:30 0HMMK8F748017:0000000D [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 72.7923ms (791a596a)
+2022-12-02T14:31:40.7056617+05:30 0HMMK8F748019:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/api/Admin/getAdminById?admin_id=1 - - (ca22a1cb)
+2022-12-02T14:31:40.7397244+05:30 0HMMK8F748019:00000001 [INF] Executing endpoint '"Electric_Billing_System.Controllers.AdminController.getAdminById (Electric Billing System)"' (500cc934)
+2022-12-02T14:31:40.7652697+05:30 0HMMK8F748019:00000001 [INF] Route matched with "{action = \"getAdminById\", controller = \"Admin\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult getAdminById(Int32)" on controller "Electric_Billing_System.Controllers.AdminController" ("Electric Billing System"). (122b2fdf)
+2022-12-02T14:31:40.8494883+05:30 0HMMK8F748019:00000001 [INF] Admin (b39c89ee)
+2022-12-02T14:43:08.7090635+05:30  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-12-02T14:43:08.7121357+05:30  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-12-02T14:43:08.7122754+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-12-02T14:43:08.7123003+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-12-02T14:43:08.7123158+05:30  [INF] Content root path: "C:\Users\SHREYAS KABIRAJ\Desktop\Electric Billing System\Electric Billing System\Electric Billing System" (b5d60022)
+2022-12-02T14:43:09.1709827+05:30 0HMMK8LMUQQR7:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html - - (ca22a1cb)
+2022-12-02T14:43:09.2947593+05:30 0HMMK8LMUQQR7:00000001 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 126.8824ms (791a596a)
+2022-12-02T14:43:09.3114862+05:30 0HMMK8LMUQQR7:00000003 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js - - (ca22a1cb)
+2022-12-02T14:43:09.3155211+05:30 0HMMK8LMUQQR7:00000003 [INF] Request finished HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js - - - 200 11565 application/javascript;+charset=utf-8 3.9892ms (791a596a)
+2022-12-02T14:43:09.5264594+05:30 0HMMK8LMUQQR7:00000005 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - (ca22a1cb)
+2022-12-02T14:43:09.7106024+05:30 0HMMK8LMUQQR7:00000005 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 184.1382ms (791a596a)
+2022-12-02T14:43:17.1948043+05:30 0HMMK8LMUQQR7:00000007 [INF] Request starting HTTP/2 GET https://localhost:5001/api/Admin/getAdminById?admin_id=1 - - (ca22a1cb)
+2022-12-02T14:43:17.2291544+05:30 0HMMK8LMUQQR7:00000007 [INF] Executing endpoint '"Electric_Billing_System.Controllers.AdminController.getAdminById (Electric Billing System)"' (500cc934)
+2022-12-02T14:43:17.2559504+05:30 0HMMK8LMUQQR7:00000007 [INF] Route matched with "{action = \"getAdminById\", controller = \"Admin\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[EBS.DomainLayer.Models.Admin] getAdminById(Int32)" on controller "Electric_Billing_System.Controllers.AdminController" ("Electric Billing System"). (122b2fdf)
+2022-12-02T14:43:17.3374390+05:30 0HMMK8LMUQQR7:00000007 [INF] Admin (b39c89ee)
+2022-12-02T14:44:43.0330999+05:30  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-12-02T14:44:43.0413316+05:30  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-12-02T14:44:43.0440064+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-12-02T14:44:43.0460920+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-12-02T14:44:43.0481021+05:30  [INF] Content root path: "C:\Users\SHREYAS KABIRAJ\Desktop\Electric Billing System\Electric Billing System\Electric Billing System" (b5d60022)
+2022-12-02T14:44:44.4585241+05:30 0HMMK8MJ3K1N2:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html - - (ca22a1cb)
+2022-12-02T14:44:44.6450917+05:30 0HMMK8MJ3K1N2:00000001 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 193.7899ms (791a596a)
+2022-12-02T14:44:44.7984991+05:30 0HMMK8MJ3K1N2:00000003 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - (ca22a1cb)
+2022-12-02T14:44:44.9495341+05:30 0HMMK8MJ3K1N2:00000003 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 150.9464ms (791a596a)
+2022-12-02T14:44:53.3652350+05:30 0HMMK8MJ3K1N2:00000005 [INF] Request starting HTTP/2 GET https://localhost:5001/api/Admin/getAdminById?admin_id=1 - - (ca22a1cb)
+2022-12-02T14:44:53.4183948+05:30 0HMMK8MJ3K1N2:00000005 [INF] Executing endpoint '"Electric_Billing_System.Controllers.AdminController.getAdminById (Electric Billing System)"' (500cc934)
+2022-12-02T14:44:53.4631268+05:30 0HMMK8MJ3K1N2:00000005 [INF] Route matched with "{action = \"getAdminById\", controller = \"Admin\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[EBS.DomainLayer.Models.Admin] getAdminById(Int32)" on controller "Electric_Billing_System.Controllers.AdminController" ("Electric Billing System"). (122b2fdf)
+2022-12-02T14:44:53.6676907+05:30 0HMMK8MJ3K1N2:00000005 [INF] Admin (b39c89ee)
+2022-12-02T14:51:04.2034385+05:30  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-12-02T14:51:04.2081437+05:30  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-12-02T14:51:04.2083920+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-12-02T14:51:04.2084504+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-12-02T14:51:04.2084824+05:30  [INF] Content root path: "C:\Users\SHREYAS KABIRAJ\Desktop\Electric Billing System\Electric Billing System\Electric Billing System" (b5d60022)
+2022-12-02T14:51:04.9936671+05:30 0HMMK8Q4NQBE6:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html - - (ca22a1cb)
+2022-12-02T14:51:05.1884755+05:30 0HMMK8Q4NQBE6:00000001 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 198.9476ms (791a596a)
+2022-12-02T14:51:05.2019363+05:30 0HMMK8Q4NQBE6:00000003 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js - - (ca22a1cb)
+2022-12-02T14:51:05.2067713+05:30 0HMMK8Q4NQBE6:00000003 [INF] Request finished HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js - - - 200 11565 application/javascript;+charset=utf-8 4.8043ms (791a596a)
+2022-12-02T14:51:05.3213474+05:30 0HMMK8Q4NQBE6:00000005 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - (ca22a1cb)
+2022-12-02T14:51:05.4673091+05:30 0HMMK8Q4NQBE6:00000005 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 145.9883ms (791a596a)
+2022-12-02T14:51:11.9461187+05:30 0HMMK8Q4NQBE7:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/api/Admin/getAdminById?admin_id=1 - - (ca22a1cb)
+2022-12-02T14:51:11.9733738+05:30 0HMMK8Q4NQBE7:00000001 [INF] Executing endpoint '"Electric_Billing_System.Controllers.AdminController.getAdminById (Electric Billing System)"' (500cc934)
+2022-12-02T14:51:12.0031597+05:30 0HMMK8Q4NQBE7:00000001 [INF] Route matched with "{action = \"getAdminById\", controller = \"Admin\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[EBS.DomainLayer.Models.Admin]] getAdminById(Int32)" on controller "Electric_Billing_System.Controllers.AdminController" ("Electric Billing System"). (122b2fdf)
+2022-12-02T14:51:12.0785886+05:30 0HMMK8Q4NQBE7:00000001 [INF] Admin (b39c89ee)
+2022-12-02T15:18:54.8665534+05:30  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-12-02T15:18:54.8722406+05:30  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-12-02T15:18:54.8740527+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-12-02T15:18:54.8756307+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-12-02T15:18:54.8784199+05:30  [INF] Content root path: "C:\Users\SHREYAS KABIRAJ\Desktop\Electric Billing System\Electric Billing System\Electric Billing System" (b5d60022)
+2022-12-02T15:18:55.9778207+05:30 0HMMK99MISTPR:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html - - (ca22a1cb)
+2022-12-02T15:18:56.0863771+05:30 0HMMK99MISTPR:00000001 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 111.1397ms (791a596a)
+2022-12-02T15:18:56.1931306+05:30 0HMMK99MISTPR:00000003 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - (ca22a1cb)
+2022-12-02T15:18:56.4161131+05:30 0HMMK99MISTPR:00000003 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 222.7143ms (791a596a)
+2022-12-02T15:19:04.6476022+05:30 0HMMK99MISTPS:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/api/Admin/getAdmin?admin_id=1 - - (ca22a1cb)
+2022-12-02T15:19:04.6848838+05:30 0HMMK99MISTPS:00000001 [INF] Executing endpoint '"Electric_Billing_System.Controllers.AdminController.getAdmin (Electric Billing System)"' (500cc934)
+2022-12-02T15:19:04.7281885+05:30 0HMMK99MISTPS:00000001 [INF] Route matched with "{action = \"getAdmin\", controller = \"Admin\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[EBS.DomainLayer.Models.Admin]] getAdmin(Int32)" on controller "Electric_Billing_System.Controllers.AdminController" ("Electric Billing System"). (122b2fdf)
+2022-12-02T15:19:04.9151026+05:30 0HMMK99MISTPS:00000001 [INF] Admin (b39c89ee)
+2022-12-02T15:19:15.7894092+05:30  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-12-02T15:19:15.7970167+05:30  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-12-02T15:19:15.8044625+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-12-02T15:19:15.8131278+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-12-02T15:19:15.8147868+05:30  [INF] Content root path: "C:\Users\SHREYAS KABIRAJ\Desktop\Electric Billing System\Electric Billing System\Electric Billing System" (b5d60022)
+2022-12-02T15:19:16.6165638+05:30 0HMMK99SQ5LV6:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html - - (ca22a1cb)
+2022-12-02T15:19:16.7485528+05:30 0HMMK99SQ5LV6:00000001 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 138.8999ms (791a596a)
+2022-12-02T15:19:16.8559745+05:30 0HMMK99SQ5LV6:00000003 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - (ca22a1cb)
+2022-12-02T15:19:16.9545170+05:30 0HMMK99SQ5LV6:00000003 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 98.5297ms (791a596a)
+2022-12-02T15:19:24.9433796+05:30 0HMMK99SQ5LV7:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/api/Admin/getAdmin?admin_id=1 - - (ca22a1cb)
+2022-12-02T15:19:24.9758566+05:30 0HMMK99SQ5LV7:00000001 [INF] Executing endpoint '"Electric_Billing_System.Controllers.AdminController.getAdmin (Electric Billing System)"' (500cc934)
+2022-12-02T15:19:25.0083764+05:30 0HMMK99SQ5LV7:00000001 [INF] Route matched with "{action = \"getAdmin\", controller = \"Admin\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[EBS.DomainLayer.Models.Admin]] getAdmin(Int32)" on controller "Electric_Billing_System.Controllers.AdminController" ("Electric Billing System"). (122b2fdf)
+2022-12-02T15:19:25.1280709+05:30 0HMMK99SQ5LV7:00000001 [INF] Admin (b39c89ee)
+2022-12-02T15:42:24.1609005+05:30  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-12-02T15:42:24.1675602+05:30  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-12-02T15:42:24.1678434+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-12-02T15:42:24.1678941+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-12-02T15:42:24.1679396+05:30  [INF] Content root path: "C:\Users\SHREYAS KABIRAJ\Desktop\Electric Billing System\Electric Billing System\Electric Billing System" (b5d60022)
+2022-12-02T15:42:25.0787997+05:30 0HMMK9MQIAUQA:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/index.html - - (ca22a1cb)
+2022-12-02T15:42:25.4038342+05:30 0HMMK9MQIAUQA:00000001 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/index.html - - - 200 - text/html;charset=utf-8 337.3284ms (791a596a)
+2022-12-02T15:42:25.4496029+05:30 0HMMK9MQIAUQA:00000003 [INF] Request starting HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js - - (ca22a1cb)
+2022-12-02T15:42:25.4628045+05:30 0HMMK9MQIAUQA:00000003 [INF] Request finished HTTP/2 GET https://localhost:5001/_framework/aspnetcore-browser-refresh.js - - - 200 11565 application/javascript;+charset=utf-8 13.1594ms (791a596a)
+2022-12-02T15:42:25.6474913+05:30 0HMMK9MQIAUQA:00000005 [INF] Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - (ca22a1cb)
+2022-12-02T15:42:25.9145929+05:30 0HMMK9MQIAUQA:00000005 [INF] Request finished HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 267.1987ms (791a596a)
+2022-12-02T15:42:43.1966783+05:30 0HMMK9MQIAUQB:00000001 [INF] Request starting HTTP/2 GET https://localhost:5001/api/Admin/getAdminById?admin_id=1 - - (ca22a1cb)
+2022-12-02T15:42:43.2360277+05:30 0HMMK9MQIAUQB:00000001 [INF] Executing endpoint '"Electric_Billing_System.Controllers.AdminController.getAdminById (Electric Billing System)"' (500cc934)
+2022-12-02T15:42:43.2682193+05:30 0HMMK9MQIAUQB:00000001 [INF] Route matched with "{action = \"getAdminById\", controller = \"Admin\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult`1[EBS.DomainLayer.Models.Admin] getAdminById(Int32)" on controller "Electric_Billing_System.Controllers.AdminController" ("Electric Billing System"). (122b2fdf)
+2022-12-02T15:42:43.4014572+05:30 0HMMK9MQIAUQB:00000001 [INF] Admin (b39c89ee)

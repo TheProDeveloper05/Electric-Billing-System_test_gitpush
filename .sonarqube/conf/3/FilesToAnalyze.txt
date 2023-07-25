@@ -1,0 +1,20 @@
+﻿D:\project i digital\backend\Electric Billing System\Electric Billing System\Controllers\AdminController.cs
+D:\project i digital\backend\Electric Billing System\Electric Billing System\Controllers\BillController.cs
+D:\project i digital\backend\Electric Billing System\Electric Billing System\Controllers\CustomerController.cs
+D:\project i digital\backend\Electric Billing System\Electric Billing System\Controllers\PaymentController.cs
+D:\project i digital\backend\Electric Billing System\Electric Billing System\Controllers\WeatherForecastController.cs
+D:\project i digital\backend\Electric Billing System\Electric Billing System\Program.cs
+D:\project i digital\backend\Electric Billing System\Electric Billing System\Startup.cs
+D:\project i digital\backend\Electric Billing System\Electric Billing System\WeatherForecast.cs
+D:\project i digital\backend\Electric Billing System\Electric Billing System\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+D:\project i digital\backend\Electric Billing System\Electric Billing System\obj\Debug\net5.0\Electric Billing System.AssemblyInfo.cs
+D:\project i digital\backend\Electric Billing System\Electric Billing System\obj\Debug\net5.0\Electric Billing System.MvcApplicationPartsAssemblyInfo.cs
+D:\project i digital\backend\Electric Billing System\Electric Billing System\appsettings.Development.json
+D:\project i digital\backend\Electric Billing System\Electric Billing System\appsettings.json
+D:\project i digital\backend\Electric Billing System\Electric Billing System\AppLogs\GBSAppLogs20221202.txt
+D:\project i digital\backend\Electric Billing System\Electric Billing System\AppLogs\GBSAppLogs20221205.txt
+D:\project i digital\backend\Electric Billing System\Electric Billing System\AppLogs\GBSAppLogs20221206.txt
+D:\project i digital\backend\Electric Billing System\Electric Billing System\AppLogs\GBSAppLogs20221207.txt
+D:\project i digital\backend\Electric Billing System\Electric Billing System\AppLogs\GBSAppLogs20221212.txt
+D:\project i digital\backend\Electric Billing System\Electric Billing System\AppLogs\GBSAppLogs20221213.txt
+D:\project i digital\backend\Electric Billing System\Electric Billing System\Properties\launchSettings.json
